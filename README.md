@@ -1,16 +1,22 @@
-## Hi there 👋
+# designer ••• developer 💦
 
-<!--
-**gimeus/gimeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 기술 스택
 
-Here are some ideas to get you started:
+- **언어 및 라이브러리**
+  - JavaScript (ES6+)
+  - React
+  - Vue.js
+  - HTML
+  - CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **데이터베이스**
+  - MySQL
+
+- **도구**
+  - Visual Studio Code
+  - Git
+
+## 📈 GitHub 통계
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gimeus&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
+

@@ -1,6 +1,8 @@
 ## designer ••• developer 💦
 
----
+
+
+
 
 ## 🎓 Tech Stack
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
@@ -12,7 +14,9 @@
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+
+
+
 
 ## 📈 My GitHub Stats
 ![gimeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimeus&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000)

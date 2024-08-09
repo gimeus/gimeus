@@ -14,4 +14,3 @@
 
 ## 📈 My GitHub Stats
 ![gimeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimeus&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000)
-![gimeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimeus&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff)

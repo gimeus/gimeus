@@ -4,7 +4,7 @@
 
 
 
-### 🎓 Tech Stack
+## 🎓 Tech Stack
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
@@ -18,5 +18,5 @@
 
 
 
-### 📈 My GitHub Stats
+## 📈 My GitHub Stats
 ![gimeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimeus&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000)

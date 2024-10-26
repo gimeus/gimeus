@@ -1,11 +1,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7EAFF&width=435&lines=%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4%E3%85%A4designer+%E2%86%94+developer" alt="Typing SVG" /></a>
-</p>
+<!-- </p>
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimeus&count_bg=%23B6B6B6&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=%E2%9C%B8&edge_flat=false"/></a>
-</div>
+</div> -->
 
-<br/>
 
 <p align="center">
 Hi there! I'm a <b>UI/UX Designer</b> and <b>Frontend Developer</b> 🎨💻<br/>

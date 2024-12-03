@@ -33,3 +33,25 @@ Passionate about building beautiful and meaningful things ✨💡
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gimeus&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="gimeus's GitHub stats"/>
 </p>
+
+### <p align="center"> Award </p>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Repositories</th>
+      <th>Award</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>KB IT's Your Life 해커톤</td>
+      <td>
+        <a href="https://github.com/gimeus/KBJeans">
+          <img src="https://img.shields.io/badge/KBJeans | 주택 청약 서비스-white?style=flat-square&logo=github&logoColor=000000"/>
+        </a>
+      </td>
+      <td>🏆 최우수상</td>
+    </tr>
+  </tbody>
+</table>

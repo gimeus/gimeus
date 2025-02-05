@@ -14,7 +14,7 @@ Passionate about building beautiful and meaningful things ✨💡
 
 ㅤ
 ㅤ
-### <p align="center"> My Skills </p>
+### <p align="center"> My skills </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=React" alt="React"/>

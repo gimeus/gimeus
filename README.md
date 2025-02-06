@@ -14,7 +14,7 @@ Passionate about building beautiful and meaningful things ✨💡
 
 ㅤ
 ㅤ
-### <p align="center"> My skills </p>
+### <p align="center"> my skills </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=React" alt="React"/>
@@ -34,7 +34,7 @@ Passionate about building beautiful and meaningful things ✨💡
   <img src="https://github-readme-stats.vercel.app/api?username=gimeus&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="gimeus's GitHub stats"/>
 </p>
 
-### <p align="center"> Award </p>
+### <p align="center"> award </p>
 <table align="center">
   <thead>
     <tr>

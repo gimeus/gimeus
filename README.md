@@ -7,9 +7,9 @@
 
 
 <p align="center">
-Hi there! I'm a <b>UI/UX Designer</b> and <b>Frontend Developer</b> 🎨💻<br/>
-I specialize in creating captivating digital experiences.<br/>
-Passionate about building beautiful and meaningful things ✨💡
+Hi there! I'm a <b>UI/UX Designer</b> and <b>Publisher</b> 🎨💻<br/>
+I focus on crafting user experiences that feel easy and enjoyable.<br>
+I enjoy solving problems through thoughtful, user-centered design.
 </p>
 
 ㅤ
